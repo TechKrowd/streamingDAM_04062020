@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.proyecto2"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "alumnos",
+    "packageName": "com.mycompany.proyecto2",
+    "packageFolder": "com/mycompany/proyecto2",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZThkZjc3ZTVjZTcxNmRkZWQwYzkzNGI5NWEyMGQ4MWVjZTBiMDE3YzQ5MzdiZWI3ZTZjMjNkYTIzOGY3NTBjMDY5NjhiZTYyNDMyZmU2MWNlMzNhY2MzZWQ3OTdkYzA4NzhlZDc0NzJjMzZlMDgwZTk1NTUxZGM3N2FjNjE0Njk=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1589822163562,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
